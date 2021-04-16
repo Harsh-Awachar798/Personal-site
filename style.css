@@ -151,6 +151,7 @@ hr{
 }
 .footer-link {
   color: #00adb5;
+  font-size: 1.7rem;
   cursor:pointer;
   text-decoration: none;
   position:relative;
@@ -163,7 +164,7 @@ a:hover{
   color:#222831;
 }
 .copy-right{
-  font-size:1.2rem;
+  font-size:1rem;
   padding-top:10px;
   padding-bottom: 2px;
 }
